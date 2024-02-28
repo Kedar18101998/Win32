@@ -1,0 +1,3 @@
+#include "Window.h"
+
+MYICON ICON MyIcon.ico // MyIcon navachi file mi ICON navachya resource madhe convert karat ahe, aani tayar honarya resource la mi MYICON nav detoy
